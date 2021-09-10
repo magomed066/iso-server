@@ -7,7 +7,7 @@
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
 		"dev": "node server.js",
-		"start": "vercel --prod"
+		"versel-build": "vercel --prod"
 	},
 	"keywords": [],
 	"author": "",
