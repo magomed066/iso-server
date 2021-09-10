@@ -2,7 +2,7 @@
 	"version": 2,
 
 	"env": {
-		"SECRET": "@my-secret-name"
+		"SECRET": ".env"
 	},
 	"functions": {
 		"api/test.js": {
