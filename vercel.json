@@ -1,10 +1,6 @@
 {
 	"version": 2,
-	"builds": [
-		{
-			"src": "server.js"
-		}
-	],
+
 	"env": {
 		"SECRET": "@my-secret-name"
 	},
